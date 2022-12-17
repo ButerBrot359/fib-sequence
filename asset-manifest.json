@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fib-sequence/static/css/main.583ebbe4.css",
+    "main.js": "/fib-sequence/static/js/main.51b199ca.js",
+    "index.html": "/fib-sequence/index.html",
+    "main.583ebbe4.css.map": "/fib-sequence/static/css/main.583ebbe4.css.map",
+    "main.51b199ca.js.map": "/fib-sequence/static/js/main.51b199ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583ebbe4.css",
+    "static/js/main.51b199ca.js"
+  ]
+}
