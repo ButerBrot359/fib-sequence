@@ -28,9 +28,12 @@
   height: 90vh;
   width: 100vw;
   background-color: bisque;
+  font-size: 50px;
 }
 
 .fib_block {
+  font-size: 0.8em;
+  position: relative;
   display: flex;
   height: 100%;
   width: 100%;
